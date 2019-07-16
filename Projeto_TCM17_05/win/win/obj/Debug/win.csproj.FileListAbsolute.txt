@@ -1,0 +1,9 @@
+C:\Users\2binfo\Desktop\win\win\bin\Debug\win.exe.config
+C:\Users\2binfo\Desktop\win\win\bin\Debug\win.exe
+C:\Users\2binfo\Desktop\win\win\bin\Debug\win.pdb
+C:\Users\2binfo\Desktop\win\win\obj\Debug\win.csprojResolveAssemblyReference.cache
+C:\Users\2binfo\Desktop\win\win\obj\Debug\win.Exemplo.resources
+C:\Users\2binfo\Desktop\win\win\obj\Debug\win.Properties.Resources.resources
+C:\Users\2binfo\Desktop\win\win\obj\Debug\win.csproj.GenerateResource.Cache
+C:\Users\2binfo\Desktop\win\win\obj\Debug\win.exe
+C:\Users\2binfo\Desktop\win\win\obj\Debug\win.pdb

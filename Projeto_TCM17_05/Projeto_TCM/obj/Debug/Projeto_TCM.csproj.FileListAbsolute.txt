@@ -1,0 +1,13 @@
+C:\Users\2binfo\Documents\Ds1_Edson\Projeto_TCM\Projeto_TCM\bin\Debug\Projeto_TCM.exe.config
+C:\Users\2binfo\Documents\Ds1_Edson\Projeto_TCM\Projeto_TCM\bin\Debug\Projeto_TCM.exe
+C:\Users\2binfo\Documents\Ds1_Edson\Projeto_TCM\Projeto_TCM\bin\Debug\Projeto_TCM.pdb
+C:\Users\2binfo\Documents\Ds1_Edson\Projeto_TCM\Projeto_TCM\obj\Debug\Projeto_TCM.csprojResolveAssemblyReference.cache
+C:\Users\2binfo\Documents\Ds1_Edson\Projeto_TCM\Projeto_TCM\obj\Debug\Projeto_TCM.Properties.Resources.resources
+C:\Users\2binfo\Documents\Ds1_Edson\Projeto_TCM\Projeto_TCM\obj\Debug\Projeto_TCM.csproj.GenerateResource.Cache
+C:\Users\2binfo\Documents\Ds1_Edson\Projeto_TCM\Projeto_TCM\obj\Debug\Projeto_TCM.exe
+C:\Users\2binfo\Documents\Ds1_Edson\Projeto_TCM\Projeto_TCM\obj\Debug\Projeto_TCM.pdb
+C:\Users\2binfo\Documents\Ds1_Edson\Projeto_TCM\Projeto_TCM\obj\Debug\Projeto_TCM.telaLogin.resources
+C:\Users\2binfo\Documents\Ds1_Edson\Projeto_TCM\Projeto_TCM\obj\Debug\Projeto_TCM.telaSplash.resources
+C:\Users\Mesquita\Desktop\Ds1_Edson_tcm\Projeto_TCM\Projeto_TCM\bin\Debug\Projeto_TCM.exe.config
+C:\Users\Mesquita\Desktop\Ds1_Edson_tcm\Projeto_TCM\Projeto_TCM\obj\Debug\Projeto_TCM.exe
+C:\Users\Mesquita\Desktop\Ds1_Edson_tcm\Projeto_TCM\Projeto_TCM\obj\Debug\Projeto_TCM.pdb
